@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "Customer cannot log in to the portal.",
+    "customer": "Rahim Uddin",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failed",
+    "description": "Payment not going through despite valid card.",
+    "customer": "Karim Hasan",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2025-09-21"
+  },
+  {
+    "id": 3,
+    "title": "App Crash",
+    "description": "Mobile app crashes on startup.",
+    "customer": "Shila Akter",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": 4,
+    "title": "Refund Request",
+    "description": "Customer requested refund for wrong order.",
+    "customer": "Imran Hossain",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-18"
+  },
+  {
+    "id": 5,
+    "title": "Slow Website",
+    "description": "Website is taking too long to load.",
+    "customer": "Nusrat Jahan",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2025-09-19"
+  },
+  {
+    "id": 6,
+    "title": "Delivery Delay",
+    "description": "Customer did not receive the order on time.",
+    "customer": "Sohel Rana",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-17"
+  },
+  {
+    "id": 7,
+    "title": "Account Locked",
+    "description": "Account locked due to multiple failed login attempts.",
+    "customer": "Farhana Akter",
+    "priority": "High",
+    "status": "In-Progress",
+    "createdAt": "2025-09-16"
+  },
+  {
+    "id": 8,
+    "title": "Feature Request",
+    "description": "Customer requested dark mode option.",
+    "customer": "Tanvir Ahmed",
+    "priority": "Low",
+    "status": "In-Progress",
+    "createdAt": "2025-09-15"
+  },
+  {
+    "id": 9,
+    "title": "Password Reset",
+    "description": "Customer unable to reset password with link.",
+    "customer": "Mehedi Hasan",
+    "priority": "Medium",
+    "status": "In-Progress",
+    "createdAt": "2025-09-14"
+  },
+  {
+    "id": 10,
+    "title": "Email Not Received",
+    "description": "Customer not receiving confirmation email.",
+    "customer": "Jannatul Ferdous",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-13"
+  }
+]
