@@ -17,13 +17,13 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 ## Create a README file to answer the following question-
-1. What is JSX, and why is it used?
-   Ans: JSX is JavaScript XML, Which converts HTML to XML . JSX is used to make building UI user interface easier in React.
-2. What is the difference between State and Props?
-   Ans: Props are properties that don't change, state is the data inside the component that changes. 
-3. What is the useState hook, and how does it work?
-   Ans: useState is a React Hook. useState lets your React component remember things between renders and update the UI when the data changes. 
-4. How can you share state between components in React?
-   Ans: Using the "Lift State Up" method 
-5. How is event handling done in React?
-   Ans: Event names are camelcased, Functions must be provided, not strings,Use artificial event responses. 
+### 1. What is JSX, and why is it used?
+   #### Ans: JSX is JavaScript XML, Which converts HTML to XML, JSX is used to make building UI user interface easier in React.
+### 2. What is the difference between State and Props?
+   #### Ans: Props are properties that don't change, state is the data inside the component that changes. 
+### 3. What is the useState hook, and how does it work?
+   #### Ans: useState is a React Hook. useState lets your React component remember things between renders and update the UI when the data changes. 
+### 4. How can you share state between components in React?
+   #### Ans: Using the "Lift State Up" method by props.
+### 5. How is event handling done in React?
+   #### Ans: Event names are camelcased, Functions must be provided, not strings,Use artificial event responses. 
